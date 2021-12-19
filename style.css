@@ -1,0 +1,12 @@
+.ball {
+  height: 80px;
+  width: 80px;
+  border-radius: 40px;
+  background-color: salmon;
+  position: relative;
+  left: 90%;
+  top: 0px;
+  animation-name: ball-move;
+  animation-duration: 5s;
+  animation-direction: forwards;
+}

@@ -1,0 +1,22 @@
+@keyframes ball-move {
+  /*Top-right*/
+  0% {
+    left: 90%;
+    top: 0px;
+  }
+  /*Top-left*/
+  50% {
+    left: 0px;
+    top: 0px;
+  }
+  /*Bottom-left*/
+  75% {
+    left: 0px;
+    top: 570px;
+  }
+  /*Bottom-Right*/
+  100% {
+    left: 90%;
+    top: 0px;
+  }
+}
